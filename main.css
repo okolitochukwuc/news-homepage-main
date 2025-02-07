@@ -59,7 +59,7 @@ nav {
 
 .mobile-nav {
   width: 11rem;
-  height: 51vh;
+  height: 100vh;
   position: absolute;
   top: 0;
   right: 0;
@@ -88,7 +88,7 @@ nav {
     text-decoration: none;
     color: black;
     display: list-item;
-    margin: 1rem 0;
+    margin: 2rem 0;
     font-size: 15px;
   }
 }
