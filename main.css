@@ -1,8 +1,9 @@
 .main-container {
   width: 80vw;
   min-width: 17rem;
-  margin: auto;
-  border: 1px solid black;
+  margin: 0 auto;
+  padding-top: 1px;
+  /* border: 1px solid black; */
   font-family: Inter;
   position: relative;
 }
@@ -60,7 +61,7 @@ nav {
 }
 
 .mobile-nav {
-  width: 11rem;
+  width: 60vw;
   height: 100vh;
   position: absolute;
   top: 0;
